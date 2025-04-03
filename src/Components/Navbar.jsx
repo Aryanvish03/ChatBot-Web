@@ -6,7 +6,7 @@ const Navbar = () => {
         <h1 className='text-black font-semibold text-xl'>Neural Infused Chat-Bot</h1>
         <div className="button flex gap-5 items-center justify-center">
             <button className='bg-black text-white rounded-md p-2'>Login</button>
-            <button className='bg-black text-white rounded-md p-2'>Signup</button>
+            <button clsssName='bg-black text-white rounded-md p-2'>Signup</button>
         </div>
     </div>
   )
